@@ -1,0 +1,6 @@
+[
+  {"text" : "I had the same error during kafka streaming. The code below resolved my error: We need to define the API version in KafkaProducer." },
+  {"text" : "Utilisation des méthodes iloc() et loc() pour sélectionner plusieurs colonnes dans Pandas"},
+  {"text":"Now, we can provide this data to spark NLP document assembler, which is the entry point of spark NLP for any spark datagram."},
+  {"text":"Si vous vous intéressez un tant soit peu au Machine Learning et aux problèmes de classification, vous avez déjà dû  avoir affaire au modèle de régression logistique. Et pour cause ! Il s’agit d’un des modèles de Machine Learning les plus simples et interprétables qui existe, prend des données à la fois continues ou discrètes, et les résultats obtenus avec sont loin d’être risibles."}
+]
